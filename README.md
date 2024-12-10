@@ -1,6 +1,6 @@
 # Trading Rules Agreement
 
-**This Trading Rules Agreement** ("Agreement") is entered into effective December 21 ("Effective Date") and outlines the obligations, restrictions, and procedures for the trading team monitoring a highly unstable meme coin release.
+**This Trading Rules Agreement** ("Agreement") is entered into effective December 21 ("Effective Date") and outlines the obligations, restrictions, and procedures for the trading team monitoring a meme coin release.
 
 ---
 
